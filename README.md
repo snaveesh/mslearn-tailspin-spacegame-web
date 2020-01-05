@@ -1,3 +1,4 @@
+Add build badge 
 
 # Contributing
 
