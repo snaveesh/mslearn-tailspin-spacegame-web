@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'SelfHost'
+  name: 'SelfHost Agents'
 
 variables:
   buildConfiguration: 'Release'
